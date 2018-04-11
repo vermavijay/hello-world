@@ -1,3 +1,3 @@
 # hello-world
 first sample repository
-vermaji
+to learn the GitHub
